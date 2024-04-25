@@ -8,7 +8,8 @@ bitstamp exchange and the changes in its pricing pattern over the last100 days s
 
 As a result of getting a better view of litecoins performance we plotted the graph whichrepresented the price performance/ patterns from November 2022 to February 2023. During the seasonal period there was a decline in the price while it exponentially increased in January 2023.
 
-![image](https://github.com/Melaniam123/Litecoin-Price-Analysis/assets/97692152/00e2809a-8225-4669-8577-cd752bf5ca3d)
+![image](https://github.com/Melaniam123/Litecoin-Price-Analysis/assets/97692152/aaeeb1ee-5871-457e-8b58-a982df0dcf30)
+
 
 * Bokeh is used to generate highly interactive graphs and visualizations. The graph of "Crypto Prices" provides a good view of the price of Litecoin and its spike from January 2023.
 
