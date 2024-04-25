@@ -12,7 +12,7 @@ As a result of getting a better view of litecoins performance we plotted the gra
 
 * Bokeh is used to generate highly interactive graphs and visualizations. The graph of "Crypto Prices" provides a good view of the price of Litecoin and its spike from January 2023.
 
-  ![image](https://github.com/Melaniam123/Litecoin-Price-Analysis/assets/97692152/2b052a42-45a4-480a-a18f-cc4647ef2514)
+![image](https://github.com/Melaniam123/Litecoin-Price-Analysis/assets/97692152/2b052a42-45a4-480a-a18f-cc4647ef2514)
 
 # Conclusion 
 
