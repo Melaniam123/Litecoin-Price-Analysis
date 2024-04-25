@@ -1,4 +1,4 @@
-# Litecoin-Price-Analysis
+# Litecoin-Price-Analysis (A Simple EDA)
 
 # Introduction 
 Cryptocurrency is an encrypted digital currency that runs on a public ledger called the block chain. Litecoin is acryptocurrency founded in 2011, two years after Bitcoin by a former Google engineer McFarlane, G. (2022). Thisstudy examines the price of litecoin from the
